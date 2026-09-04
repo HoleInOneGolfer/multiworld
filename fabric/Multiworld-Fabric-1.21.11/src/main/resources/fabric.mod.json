@@ -24,7 +24,7 @@
   ],
   "depends": {
     "fabric": "*",
-    "minecraft": ">=1.21.11- <=1.21.11"
+    "minecraft": ">=26.2 <=26.2"
   },
   "suggests": {
     "icommon": "*"
